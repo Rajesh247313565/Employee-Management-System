@@ -1,4 +1,5 @@
-Employee Management System (EMS)
+Project Name:-
+             **EMPLOYEE MANAGAMENT SYSTEM**
 Overview
 
 The Employee Management System (EMS) is a full-stack Java project that allows users to manage employee records efficiently. Users can add, view, update, and delete employee information through a simple ReactJS frontend, backed by Spring Boot and MySQL. This project demonstrates CRUD operations, REST APIs, and database integration in a full-stack environment.
